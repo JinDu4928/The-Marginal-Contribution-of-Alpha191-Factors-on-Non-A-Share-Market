@@ -32,5 +32,6 @@ The Marginal Contribution of Alpha191 Factors on Non-A-Share Market/
 ├── REPRODUCE_read_only.ipynb            # Reproduction instructions (read-only version)
 ├── REPRODUCE.ipynb                      # Reproduction instructions
 └── usa_returns.py                       # A function for calculating Jensen dataset factor returns
-NOTE: Files not listed in the table above are considered intermediate files generated during computation.
+NOTE: 1. Files not listed in the table above are considered intermediate files generated during computation.
+      2. Due to confidentiality reasons, document CompleteMapping.parquet, SPXConstituentsDaily.parquet, SPXConstituentsPrices.parquet, and SPXPrices.parquet can not be provided, please add them all to the folder 'data' to make sure the operation of the process.
 ```
